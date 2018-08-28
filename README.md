@@ -17,3 +17,6 @@ From the cardboard cut 9 2p sized pieces and soak in vinegar (do not add salt to
 To assemble the battery first put down one coin, on top of that place a piece of vinegar soaked cardboard and on top of that place on piece of kitchen foil. Place another 2p on top and repeat coin, card, foil, coin, card, foil, coin, card, foil....
 
 Using an Ampmeter place the red and black connectors on the battery top and bottom. The reading should be around 2-4 volts.
+
+![CoinBattery](https://github.com/georgefelixjones/PennyBattery/blob/master/CoinBatteryDiagram.png)
+![BatteryVer1](https://github.com/georgefelixjones/PennyBattery/blob/master/PennyBatteryVer1.jpg)
