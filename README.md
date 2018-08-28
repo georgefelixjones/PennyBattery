@@ -19,4 +19,5 @@ To assemble the battery first put down one coin, on top of that place a piece of
 Using an Ampmeter place the red and black connectors on the battery top and bottom. The reading should be around 2-4 volts.
 
 ![CoinBattery](https://github.com/georgefelixjones/PennyBattery/blob/master/CoinBatteryDiagram.png)
+![Voltage](https://github.com/georgefelixjones/PennyBattery/blob/master/Voltage.png)
 ![BatteryVer1](https://github.com/georgefelixjones/PennyBattery/blob/master/PennyBatteryVer1.jpg)
